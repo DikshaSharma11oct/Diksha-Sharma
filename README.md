@@ -11,9 +11,9 @@ I'm a passionate developer based in Greater Noida, India, with a keen interest i
 
 ## Technologies & Tools
 Here are some of the technologies and tools I'm familiar with:
-- Programming Languages: [Rest API,Java 1.8,JPA,Microservices,C,C++]
-- Frameworks & Libraries: [Eclipse,STS,.Net Framework]
-- Tools & Platforms: [Mention tools, IDEs, and platforms you work with]
+- Programming Languages: Rest API,Java 1.8,JPA,Microservices,C,C++
+- Frameworks & Libraries: Eclipse,STS,.Net Framework
+- Tools & Platforms: Mention tools, IDEs, and platforms you work with
 
 ## Projects
 Here are a few noteworthy projects I've worked on:
@@ -28,7 +28,8 @@ Here are a few noteworthy projects I've worked on:
 I'm open to collaborating on interesting projects related to Dashboard Based Application. If you have a project idea or would like to collaborate, feel free to reach out to me!
 
 ## Connect with Me
-- LinkedIn: https://github.com/DikshaSharma11oct
+- Github: https://github.com/DikshaSharma11oct
+- LinkedIn: https://www.linkedin.com/in/diksha-sharma-8a3372268/
 - Email: DishaSharma11oct@gmail.com
 - Portfolio: [comming soon]
 
