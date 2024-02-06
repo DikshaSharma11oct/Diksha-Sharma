@@ -31,7 +31,7 @@ I'm open to collaborating on interesting projects related to Dashboard Based App
 - Github: https://github.com/DikshaSharma11oct
 - LinkedIn: https://www.linkedin.com/in/diksha-sharma-8a3372268/
 - Email: DishaSharma11oct@gmail.com
-- Portfolio: [comming soon]
+
 
 ---
 
