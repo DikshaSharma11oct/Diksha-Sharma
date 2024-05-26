@@ -31,9 +31,5 @@ Here are a few noteworthy projects I've worked on:
   
 2. **Project Name**: WareHouse.
    - Technologies Used: STS,.NetFramework,Rest API,Java 1.8,JPA,Microservices.
-  
-
-## Collaboration
-I'm open to collaborating on interesting projects related to Dashboard Based Application. If you have a project idea or would like to collaborate, feel free to reach out to me!
 ---
 Feel free to reach out if you have any questions, suggestions, or just want to connect! Let's create something amazing together! 🚀
